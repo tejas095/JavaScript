@@ -1,6 +1,8 @@
+/*********************Conversion Operation**************************************/
+
 let score = "tejas"
 
-// console.log(typeof score);
+ //console.log(typeof score);
 // console.log(typeof(score));
 
 let valueInNumber = Number(score)
@@ -36,10 +38,11 @@ let negValue =-value
 // console.log(2/3);
 // console.log(2%3);
 
-let str1 ="hello"
-let str2 =" tejas"
-let str3 = str1 + str2
-// console.log(str3);
+let str1 ="Hello"
+let str2 =" Tejas"
+let str3 = " Upadhyay"
+let str4 = str1 + str2 + str3
+// console.log(str4);
 
 // console.log("1"+2);
 // console.log(1+"2");
@@ -56,4 +59,4 @@ num1 = num2 = num3 = 2 + 2
 
 let gameCounter = 100
 ++gameCounter;
-console.log(gameCounter);
+//console.log(gameCounter);
